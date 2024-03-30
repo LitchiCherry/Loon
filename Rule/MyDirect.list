@@ -62,3 +62,5 @@ DOMAIN,appleid.cdn-apple.com
 DOMAIN,gsa.apple.com
 DOMAIN,idmsa.apple.com
 domain-suffix,icloud.com.cn
+domain-suffix,gitlab.com
+domain-suffix,gitlab.cn
