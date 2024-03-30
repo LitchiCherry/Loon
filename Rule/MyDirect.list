@@ -64,3 +64,4 @@ DOMAIN,idmsa.apple.com
 domain-suffix,icloud.com.cn
 domain-suffix,gitlab.com
 domain-suffix,gitlab.cn
+domain-keywords,gitlab
