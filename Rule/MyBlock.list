@@ -7,7 +7,6 @@ domain-suffix, yrvguhx.com, reject
 domain-suffix, cbsbwr.com, reject
 domain-suffix, doubleclick-cn.net, reject
 domain, df.tanx.com, reject
-domain, grpc.biliapi.net, reject
 domain, go.live.missav.com, reject
 domain-suffix, doppiocdn.com, reject
 domain-suffix, wuzbhjpvsf.com, reject
@@ -20,8 +19,6 @@ domain, adeventtracker.spotify.com, reject
 domain-suffix, tsyndicate.com, reject
 domain, h-adashx.ut.ele.me, reject
 domain, adashbc.ut.taobao.com, reject
-domain, ulogs.umengcloud.com, reject
-domain, ulogs.umeng.com, reject
 domain-suffix, adxadserv.com, reject
 domain-suffix, avple.video, reject
 domain-suffix, xlviirdr.com, reject
@@ -107,7 +104,6 @@ domain-suffix, ada.baidu.com, reject
 domain, global.albtls.t.co, reject
 domain, api-stream.twitter.com, reject
 domain, probe.twitter.com, reject
-domain, apm-misaka.biliapi.net, reject
 domain, sdk-open-phone.getui.com, reject
 domain, sdk.open.talk.getui.com, reject
 domain, tongzhi.95516.com, reject
