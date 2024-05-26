@@ -17,6 +17,7 @@ domain-suffix, ecej.com, 直连
 domain, app-site-association.cdn-apple.com, 直连
 domain-suffix, megaphone.fm, 直连
 ip-cidr, 8.210.73.205/16, 直连
+domain-suffix, emby.misakaf.org, 直连
 domain-suffix, amplitude.com, 直连
 domain-suffix, cloudflare.net, 直连
 domain-suffix, okx.com, 直连
