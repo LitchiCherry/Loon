@@ -1,6 +1,6 @@
-domain-suffix,streams1.misakaf.org, Emby
-domain-suffix,streams2.misakaf.org, Emby
-domain-suffix,streams3.misakaf.org, Emby
-domain-suffix,streams4.misakaf.org, Emby
-domain-suffix,streams5.misakaf.org, Emby
-domain-suffix,streams6.misakaf.org, Emby
+domain-suffix,streams1.misakaf.org, EmbyProxy
+domain-suffix,streams2.misakaf.org, EmbyProxy
+domain-suffix,streams3.misakaf.org, EmbyProxy
+domain-suffix,streams4.misakaf.org, EmbyProxy
+domain-suffix,streams5.misakaf.org, EmbyProxy
+domain-suffix,streams6.misakaf.org, EmbyProxy
