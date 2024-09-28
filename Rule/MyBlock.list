@@ -91,7 +91,6 @@ domain-suffix, hotchat-im.iqiyi.com, reject
 domain-suffix, sns-paopao.iqiyi.com, reject
 domain-suffix, im-hist.iqiyi.com, reject
 domain-suffix, paopao-monitor.iqiyi.com, reject
-domain-suffix, api.zuihuimai.com, reject
 domain-suffix, adgame.waimai.meituan.com, reject
 domain-suffix, hreport.meituan.com, reject
 domain-suffix, report.meituan.com, reject
