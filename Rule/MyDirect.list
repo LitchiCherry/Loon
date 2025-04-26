@@ -1,3 +1,11 @@
+DOMAIN, route-stats.d.meituan.net, 直连
+domain-suffix, miku.hk, 直连
+domain-suffix, nanflix.net, 直连
+domain-suffix, kelee.one, 直连
+domain-suffix, zuihuimai.com, 直连
+domain-suffix, cpic.com.cn, 直连
+domain-suffix, surfingame.win, 直连
+domain-suffix, naizi.win, 直连
 domain-suffix, push.apple.com, 直连
 domain-suffix, identify.apple.com, 直连
 ip-cidr, 17.249.0.0/16, 直连
