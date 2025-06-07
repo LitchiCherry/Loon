@@ -1,6 +1,18 @@
 DOMAIN, route-stats.d.meituan.net, 直连
-DOMAIN, apple.com, 直连
-DOMAIN, apple.com.cn, 直连
+DOMAIN-SUFFIX, aaplimg.com, 直连
+DOMAIN-SUFFIX, apple-mapkit.com, 直连
+DOMAIN-SUFFIX, apple-support.akadns.net, 直连
+DOMAIN-SUFFIX, apple.co, 直连
+DOMAIN-SUFFIX, apple.com, 直连
+DOMAIN-SUFFIX, apple.com.cn, 直连
+DOMAIN-SUFFIX, apple.com.edgekey.net, 直连
+DOMAIN-KEYWORD, apple.com.akadns.net, 直连
+DOMAIN-KEYWORD, apple.com.edgekey.net, 直连
+DOMAIN-KEYWORD, apple-support.akadns.net, 直连
+domain-suffix, apple.com, 直连
+domain-suffix, apple.com.cn, 直连
+DOMAIN-KEYWORD,testflight, 直连
+DOMAIN-KEYWORD,icloud.com.akadns.net, 直连
 domain-suffix, miku.hk, 直连
 domain-suffix, nanflix.net, 直连
 domain-suffix, kelee.one, 直连
