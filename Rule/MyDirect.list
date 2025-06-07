@@ -1,4 +1,6 @@
 DOMAIN, route-stats.d.meituan.net, 直连
+DOMAIN, apple.com, 直连
+DOMAIN, apple.com.cn, 直连
 domain-suffix, miku.hk, 直连
 domain-suffix, nanflix.net, 直连
 domain-suffix, kelee.one, 直连
