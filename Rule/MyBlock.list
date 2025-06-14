@@ -1,5 +1,3 @@
-ip-cidr, 8.8.4.4/32, reject, no-resolve
-ip-cidr, 8.8.8.8/32, reject, no-resolve
 domain, guangguang.cloudvideocdn.taobao.com, reject
 domain-suffix, hxcwqh.com, reject
 domain-suffix, xickud.com, reject
