@@ -38,6 +38,8 @@ domain-suffix, jstatic.xyz, 代理
 domain-suffix, ctinews.com, 代理
 domain-suffix, opendns.com, 代理
 ip-cidr, 1.1.1.1/32, 代理
+ip-cidr, 8.8.8.8/32, 代理
+ip-cidr, 8.8.4.4/32, 代理
 domain-suffix, 91selfie.com, 代理
 domain-suffix, sda1.dev, 代理
 domain-suffix, javbus22.com, 代理
