@@ -35,7 +35,6 @@ ip-cidr, 17.252.0.0/16, 直连
 ip-cidr, 17.57.144.0/22, 直连
 ip-cidr, 17.188.128.0/18, 直连
 ip-cidr, 17.188.20.0/23, 直连
-domain-suffix, tv.micu.hk, 直连
 domain-suffix, yuheng.best, 直连
 domain-suffix, 10jqka.com.cn, 直连
 ip-cidr, 172.233.81.206/24, 直连
