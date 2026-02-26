@@ -6,3 +6,9 @@ domain-suffix,apple-relay.fastly-edge.com
 domain-suffix,apple-relay.apple.com
 domain-suffix,apple-relay.cloudflare.com
 domain-suffix,cp4.cloudflare.com
+domain-suffix,featureassets.org
+domain-suffix,mask-api.icloud.com
+domain-suffix,prodregistryv2.org
+ip-cidr,17.23.96.10/24
+ip-cidr,3.233.158.24/24
+ip-cidr,17.248.152.104/24
