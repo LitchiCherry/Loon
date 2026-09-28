@@ -99,7 +99,6 @@ domain-suffix, msg.qy.net, reject
 domain-suffix, hector.baidu.com, reject
 domain-suffix, ada.baidu.com, reject
 domain, global.albtls.t.co, reject
-domain, api-stream.twitter.com, reject
 domain, probe.twitter.com, reject
 domain, sdk-open-phone.getui.com, reject
 domain, sdk.open.talk.getui.com, reject
